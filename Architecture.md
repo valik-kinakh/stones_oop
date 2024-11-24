@@ -1,4 +1,4 @@
-![img.png](img.png)
+![img.png](architecture.jpeg)
 
 #### WPF (Клієнт)
 - Фронтенд-додаток, створений за допомогою Windows Presentation Foundation (WPF), виступає інтерфейсом користувача для гравців.

@@ -4,8 +4,8 @@
 
 ### Головна логіка гри:
 
-![img_3.png](img_3.png)
+![img_3.png](set.png)
 
 ### Мережева взаємодія
 
-![img_4.png](img_4.png)
+![img_4.png](step-3.png)
